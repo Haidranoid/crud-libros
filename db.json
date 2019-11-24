@@ -1,0 +1,94 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux",
+      "precio": 30
+    },
+    {
+      "id": 3,
+      "nombre": "React y Redux",
+      "precio": 40
+    },
+    {
+      "id": 4,
+      "nombre": "Hola, te amo",
+      "precio": "233"
+    },
+    {
+      "nombre": "Tu y yo",
+      "precio": "300",
+      "id": 7
+    },
+    {
+      "nombre": "I miss you",
+      "precio": "200",
+      "id": 8
+    },
+    {
+      "nombre": "What its your name?",
+      "precio": "300",
+      "id": 9
+    },
+    {
+      "nombre": "Nuevo libro",
+      "precio": "500",
+      "id": 10
+    },
+    {
+      "nombre": "I want be with you",
+      "precio": "400",
+      "id": 11
+    },
+    {
+      "nombre": "Other",
+      "precio": "200",
+      "id": 12
+    },
+    {
+      "nombre": "Otro libro",
+      "precio": "400",
+      "id": 13
+    },
+    {
+      "nombre": "abrs",
+      "precio": "230",
+      "id": 14
+    },
+    {
+      "nombre": "verifing",
+      "precio": "343",
+      "id": 15
+    },
+    {
+      "nombre": "no",
+      "precio": "200",
+      "id": 17
+    },
+    {
+      "nombre": "antuan",
+      "precio": "200",
+      "id": 18
+    },
+    {
+      "nombre": "try",
+      "precio": "200",
+      "id": 19
+    },
+    {
+      "nombre": "Intento",
+      "precio": "400",
+      "id": 20
+    },
+    {
+      "nombre": "yabasta",
+      "precio": "200",
+      "id": 21
+    },
+    {
+      "nombre": "tryd",
+      "precio": "200",
+      "id": 22
+    }
+  ]
+}
